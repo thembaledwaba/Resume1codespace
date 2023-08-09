@@ -1,0 +1,26 @@
+header{
+font: 1em sans-serif; color: rgb(91, 88, 88); text-align: center; background-color: rgb(244, 211, 247);
+}
+html{
+    background-color: rgb(250, 230, 247);
+    font-family: Georgia;
+}
+h1{
+    font-family: Georgia; font-style: italic; color: black;
+}
+aside{
+    font: 1em Georgia; color: #70526C ; text-align: center;
+   
+}
+h2{
+    text-align: center; color:  #523a50;
+}
+h3{
+    font-weight: bold; font-style: italic; color: rgb(41, 34, 34); font-family: Calibri;
+}
+section{
+    background-color: rgb(244, 211, 247);
+}
+footer{
+    background-color: rgb(244, 211, 247);
+}
